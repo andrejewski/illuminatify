@@ -1,0 +1,31 @@
+{
+  "name": "illuminatify",
+  "version": "0.0.1",
+  "description": "turn animated gifs into subliminal mesengers",
+  "main": "index.js",
+  "bin": {
+    "illuminatify": "bin/illuminatify.js"
+  },
+  "scripts": {
+    "test": "illuminatify cover-up/falsified-evidence.gif cover-up/truth.gif"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrejewski/illuminatify.git"
+  },
+  "keywords": [
+    "illuminati",
+    "subliminal",
+    "messaging",
+    "gif"
+  ],
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejewski/illuminatify/issues"
+  },
+  "homepage": "https://github.com/andrejewski/illuminatify",
+  "dependencies": {
+    "gifsicle": "^2.0.1"
+  }
+}
