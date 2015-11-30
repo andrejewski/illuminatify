@@ -1,5 +1,5 @@
 # illuminatify
-turn animated gifs into subliminal mesengers
+turn animated gifs into subliminal messengers
 
 ## Get the Truth
 
